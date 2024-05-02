@@ -6,3 +6,6 @@ backend.daws78s.site
 
 [frontend]
 daws78s.site
+
+[all:vars]
+ansible_password = DevOps321
